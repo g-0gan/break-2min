@@ -1,5 +1,5 @@
 let main_interval;
-let target_distance = 10 * 60 * 1000 + 5100; // min * sec * ms 10 * 60 * 1000
+let target_distance = 2 * 60 * 1000; // min * sec * ms 10 * 60 * 1000
 let main_text = document.getElementById("main_text");
 let song = document.getElementById("song");
 let is_audio_running = true;
